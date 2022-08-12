@@ -11,7 +11,7 @@ import multiprocessing as mp
 from config.user_info import *
 
 # 자동 로그인 해제 및 설정
-LOGIN_FILE     = "C:/OpenAPI/system/Autologin.dat"
+LOGIN_FILE = "C:/OpenAPI/system/Autologin.dat"
 LOGIN_FILE_TMP = "C:/OpenAPI/system/Autologin.tmp"
 
 def turn_off_auto():
